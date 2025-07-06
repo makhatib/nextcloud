@@ -18,8 +18,8 @@
 
 1. استنساخ المستودع:
 ```bash
-git clone https://github.com/yourusername/nextcloud-aio-docker.git
-cd nextcloud-aio-docker
+git clone https://github.com/makhatib/nextcloud.git
+cd nextcloud
 ```
 2. تعديل متغيرات البيئة
 افتح ملف docker-compose.yml.
@@ -29,11 +29,6 @@ cd nextcloud-aio-docker
 3. تشغيل Nextcloud:
 ```bash
 docker compose up -d
-4. الوصول إلى لوحة التحكم
-افتح المتصفح وادخل إلى:
-https://cloud.example.com
-أو
-https://<IP Address>:443
 ```
 
 اتبع التعليمات لإكمال الإعداد الأولي.
