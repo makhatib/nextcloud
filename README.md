@@ -1,4 +1,6 @@
-<p align="center"> <img src="[https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg](https://camo.githubusercontent.com/cb24284c4a970802613bfb8cc750478372f008ffbbeb558a1460e9d92006cf77/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f443444313641514671644e616d746b4e317a412f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3230305f3830302f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3230305f3830302f302f313731393335343335363539323f653d3231343734383336343726763d6265746126743d476978366f4d4855746e336b397742374163322d536837684b4670767441676c67464a6b725a4b59484a6f)" alt="شعار Nextcloud" width="60%" /> </p>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFqdNamtkN1zA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719354356592?e=2147483647&v=beta&t=Gix6oMHUtn3k9wB7Ac2-Sh7hKFpvtAglgFJkrZKYHJo" alt="شعار قناة محمود الخطيب" width="100%" />
+</p>
 
 ☁️ Nextcloud All-in-One - التثبيت السريع عبر Docker 🚀
 أنشئ منصتك السحابية الخاصة لإدارة الملفات، الملاحظات، الصور، والتقويمات بسهولة وأمان باستخدام Nextcloud All-in-One على خادمك خلال دقائق فقط، عبر Docker Compose.
